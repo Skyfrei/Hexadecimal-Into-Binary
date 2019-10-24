@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571921963 source:c:\users\user\desktop\c++ projects\hex to binary\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+
